@@ -1,7 +1,7 @@
 # Previsor-de-Rendimentos-de-Lavouras
 Algoritmo Naive Bayes com dados coletados da plataforma kaggle com o intuito de prever rendimentos futuros com base em novos dados.
 
-Fertilizante: Representa a quantidade ou concentração de fertilizante aplicado em algumas unidades
+Fertilizante: Representa a quantidade ou concentração de fertilizante aplicado em algumas unidades.
 Temperatura: Condições de temperatura durante o período de cultivo.
 Nitrogênio (N): Quantidade de nitrogênio presente no fertilizante ou solo, normalmente medida em libras por acre.
 Fósforo (P): Quantidade de fósforo presente no fertilizante ou solo, normalmente medida em libras por acre.
