@@ -8,7 +8,7 @@ Fósforo (P): Quantidade de fósforo presente no fertilizante ou solo, normalmen
 Potássio (K): Quantidade de potássio presente no fertilizante ou solo, normalmente medida em libras por acre.
 Rendimento (Q/acre): A quantidade de cultura colhida por acre, normalmente medida em alqueires, toneladas ou outras unidades apropriadas.
 
-Este é um projeto que utiliza dados de rendimento de lavouras disponíveis na plataforma Kaggle para prever o rendimento das lavouras com base em diferentes variáveis como chuvas, temperatura e nutrientes do solo. Vamos analisar passo a passo o código e os processos envolvidos:
+Este é um projeto que utiliza dados de rendimento de lavouras disponíveis na plataforma Kaggle(Link: https://www.kaggle.com/datasets/yaminh/crop-yield-prediction) para prever o rendimento das lavouras com base em diferentes variáveis como chuvas, temperatura e nutrientes do solo. Vamos analisar passo a passo o código e os processos envolvidos:
 
 Imports: O código começa importando as bibliotecas necessárias para o projeto, como pandas para manipulação de dados e scikit-learn para algoritmos de aprendizado de máquina.
 
